@@ -7,7 +7,7 @@ cout<<"Hello world\n";//sdghpsa
 cout<<"Hello world\n";
 cout<<"Hello world\n";
 cout<<"Hello world\n";
-cout<<"Hello world\n";
+cout<<"Hello world\n";//l;kjbh;slk
 system("pause");
 \\gfshfdshgfsdhgdf
 \\dsabgsahdilgjdsfjdasfkjdsaf dal kfla skla k
